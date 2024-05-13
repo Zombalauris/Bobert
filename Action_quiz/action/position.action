@@ -1,0 +1,7 @@
+#goal
+string goals
+---
+#result
+---
+#feedback
+float32 progress

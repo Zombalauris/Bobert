@@ -1,0 +1,6 @@
+<launch>
+	<node pkg="Action_quiz" type="action_client.py" name="action_client" output="screen">
+</node>
+	<node pkg="Action_quiz" type="action_server.py" name="action_server" output="screen">
+</node>
+</launch>
